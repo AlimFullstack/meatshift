@@ -36,6 +36,7 @@ npx serve .
 python -m http.server 8080
 ```
 
+
 Open `http://localhost:8080` (or the port shown) and play.
 
 > No `npm install` required — zero dependencies by design.
